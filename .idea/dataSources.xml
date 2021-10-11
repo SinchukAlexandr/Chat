@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="chat_db@localhost" uuid="7b51a058-3fc2-48bb-afcf-b632159c56fb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/chat_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="java_ee_db@localhost" uuid="82ee2077-970e-4ed5-a364-e21f4fa7a4e0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/java_ee_db</jdbc-url>
+    </data-source>
+  </component>
+</project>
